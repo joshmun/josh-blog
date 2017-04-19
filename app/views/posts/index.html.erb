@@ -7,8 +7,7 @@
   <ul>
     <li><h3><%= post.title %></h3>
     <p><%= post.body %></p></li>
-    <span><%= link_to 'Delete', post_path(post.id),
-            data: {:confirm => 'Are you sure?'}, :method => :delete %></span>
+    <span><%= link_to 'Delete', post_path(post), data: {:confirm => 'Are you sure?'}, method: :delete %></span>
     <span><%= link_to 'Edit', edit_post_path(post) %>
   </ul>
 <% end %>
