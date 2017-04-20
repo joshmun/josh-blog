@@ -92,8 +92,7 @@ __is equivalent to__
 ## form helpers
 
 ### Additional resources:
-```
+
 http://guides.rubyonrails.org/form_helpers.html
-```
 
 ![Form Helpers](app/assets/images/form_helpers.png?raw=true "Form Helpers")
