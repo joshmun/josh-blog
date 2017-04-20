@@ -7,12 +7,11 @@ Rails provides a faster way to produce code common to many html pages such as bu
 
 You embed these magic pieces of ruby into the html view document directly.
 
-Demonstration goals:
-  - familiarity with syntax
-  - knowledge of where to execute
-  - understanding of method specification
-  - understanding of conditional logic
-  - introduction to all form helpers
+Learning Objectives:
+  - provide overview to link_to, button_to, form_for
+  - knowledge of where to execute in code
+  - introduction to conditional logic and method specification
+  - provide resource for all form helpers
 
 ## Link_to 
 Quick way to build hyper links. 
